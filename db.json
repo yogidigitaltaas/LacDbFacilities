@@ -1,0 +1,143 @@
+ { "facilities" :  [
+         {
+                "STREET1": "4760 W SUNSET BLVD",
+                "PROVIDER_ID": 12322,
+                "FACILITY_NAME": "KAISER PERMANENTE",
+                "ZIP": "90027",
+                "LAST_NAME": "COLLINS",
+                "CITY": "LOS ANGELES",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G67530"
+            },
+         {
+                "STREET1": "210 W SAN BERNARDINO RD",
+                "PROVIDER_ID": 12269,
+                "FACILITY_NAME": "CITRUS VALLEY PHYSICIANS GROUP",
+                "ZIP": "91723",
+                "LAST_NAME": "LINDBERG",
+                "CITY": "COVINA",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G69560"
+            },
+            {
+                "STREET1": "1115 S SUNSET AVE",
+                "PROVIDER_ID": 12269,
+                "FACILITY_NAME": "LAKESIDE MEDICAL GROUP",
+                "ZIP": "91790",
+                "LAST_NAME": "LINDBERG",
+                "CITY": "WEST COVINA,",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G69560"
+            },
+            {
+                "STREET1": "1115 S SUNSET AVE",
+                "PROVIDER_ID": 12269,
+                "FACILITY_NAME": "REGAL MEDICAL GROUP",
+                "ZIP": "91790",
+                "LAST_NAME": "LINDBERG",
+                "CITY": "WEST COVINA,",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G69560"
+            },
+            {
+                "STREET1": "1115 S SUNSET AVE",
+                "PROVIDER_ID": 12269,
+                "FACILITY_NAME": "ALLIED PHYSICIANS CITRUS VALLEY IPA",
+                "ZIP": "91790",
+                "LAST_NAME": "LINDBERG",
+                "CITY": "WEST COVINA",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G69560"
+            },
+            {
+                "STREET1": "1115 S SUNSET AVE",
+                "PROVIDER_ID": 12269,
+                "FACILITY_NAME": "CITRUS VALLEY PHYSICIANS GROUP",
+                "ZIP": "91790",
+                "LAST_NAME": "LINDBERG",
+                "CITY": "WEST COVINA,",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G69560"
+            },
+                {
+                "STREET1": "14850 ROSCOE BLVD",
+                "PROVIDER_ID": 4440,
+                "FACILITY_NAME": "REGAL MEDICAL GROUP",
+                "ZIP": "91402",
+                "LAST_NAME": "LIN",
+                "CITY": "PANORAMA CITY",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G70214"
+            },
+            {
+                "STREET1": "1300 N VERMONT AVE",
+                "PROVIDER_ID": 4440,
+                "FACILITY_NAME": "REGAL MEDICAL GROUP",
+                "ZIP": "90027",
+                "LAST_NAME": "LIN",
+                "CITY": "LOS FELIZ",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G70214"
+            },
+            {
+                "STREET1": "44105 15TH ST W STE 100",
+                "PROVIDER_ID": 4440,
+                "FACILITY_NAME": "REGAL MEDICAL GROUP",
+                "ZIP": "93534",
+                "LAST_NAME": "LIN",
+                "CITY": "LANCASTER",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G70214"
+            },
+            {
+                "STREET1": "15107 VANOWEN ST",
+                "PROVIDER_ID": 4440,
+                "FACILITY_NAME": "REGAL MEDICAL GROUP",
+                "ZIP": "91405",
+                "LAST_NAME": "LIN",
+                "CITY": "VAN NUYS,",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "G70214"
+            },
+            {
+                "STREET1": "145 HODENCAMP RD",
+                "PROVIDER_ID": 22135,
+                "FACILITY_NAME": "KAISER PERMANENTE",
+                "ZIP": "91360",
+                "LAST_NAME": "MCCLINTICK",
+                "CITY": "THOUSAND OAKS",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "A75181"
+            },
+    {
+                "STREET1": "1148 S ROWAN AVE STE 2",
+                "PROVIDER_ID": 641,
+                "FACILITY_NAME": "ANGELES IPA, A MEDICAL CORPORATION",
+                "ZIP": "90023",
+                "LAST_NAME": "LIN",
+                "CITY": "LOS ANGELES",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "A39314"
+            },
+            {
+                "STREET1": "1148 S ROWAN AVE STE 2",
+                "PROVIDER_ID": 641,
+                "FACILITY_NAME": "BELLA VISTA IPA (MEDPOINT MGMT)",
+                "ZIP": "90023",
+                "LAST_NAME": "LIN",
+                "CITY": "LOS ANGELES",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "A39314"
+            },
+            {
+                "STREET1": "1148 S ROWAN AVE STE 2",
+                "PROVIDER_ID": 641,
+                "FACILITY_NAME": "HEALTHCARE PARTNERS MEDICAL GROUP",
+                "ZIP": "90023",
+                "LAST_NAME": "LIN",
+                "CITY": "LOS ANGELES",
+                "FIRST_NAME": "JOHN",
+                "LICENSE_NO": "A39314"
+            }
+         ]
+    }
