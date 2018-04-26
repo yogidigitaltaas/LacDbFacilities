@@ -1,122 +1,124 @@
  { "facilities" :  [
          {
-                "STREET1": "4760 W SUNSET BLVD",
+                "Street": "4760 W SUNSET BLVD",
                 "PROVIDER_ID": 12322,
-                "FACILITY_NAME": "Regal Medical Group",
-                "ZIP": "90027",
+                "Facility_Name": "Regal Medical Group",
+                "Zipcode": "90027",
                 "LAST_NAME": "COLLINS",
-                "CITY": "LOS ANGELES",
+                "City": "LOS ANGELES",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G67530",
-                "STATE":"CA"
+                "LICENSE NO": "G67530",
+                "State":"CA"
             },
          {
-                "STREET1": "210 W SAN BERNARDINO RD",
+                "Street": "210 W SAN BERNARDINO RD",
                 "PROVIDER_ID": 12269,
-                "FACILITY_NAME": "Citrus Valley Physicians Group",
-                "ZIP": "91723",
+                "Facility_Name": "Citrus Valley Physicians Group",
+                "Zipcode": "91723",
                 "LAST_NAME": "LINDBERG",
-                "CITY": "COVINA",
+                "City": "COVINA",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G69560",
-                "STATE":"CA"
+                "LICENSE NO": "G69560",
+                "State":"CA"
             },
             {
-                "STREET1": "1115 S SUNSET AVE",
+                "Street": "1115 S SUNSET AVE",
                 "PROVIDER_ID": 12269,
-                "FACILITY_NAME": "Lakeside Medical Group",
-                "ZIP": "91790",
+                "Facility_Name": "Lakeside Medical Group",
+                "Zipcode": "91790",
                 "LAST_NAME": "LINDBERG",
-                "CITY": "WEST COVINA",
+                "City": "WEST COVINA",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G69560",
-                "STATE":"CA"
+                "LICENSE NO": "G69560",
+                "State":"CA"
             },
             {
-                "STREET1": "1115 S SUNSET AVE",
+                "Street": "1115 S SUNSET AVE",
                 "PROVIDER_ID": 12269,
-                "FACILITY_NAME": "Regal Medical Group",
-                "ZIP": "91790",
+                "Facility_Name": "Regal Medical Group",
+                "Zipcode": "91790",
                 "LAST_NAME": "LINDBERG",
-                "CITY": "WEST COVINA",
+                "City": "WEST COVINA",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G69560",
-                "STATE":"CA"
+                "LICENSE NO": "G69560",
+                "State":"CA"
             },
             {
-                "STREET1": "1115 S SUNSET AVE",
+                "Street": "1115 S SUNSET AVE",
                 "PROVIDER_ID": 12269,
-                "FACILITY_NAME": "Citrus Valley Physicians Group",
-                "ZIP": "91790",
+                "Facility_Name": "Citrus Valley Physicians Group",
+                "Zipcode": "91790",
                 "LAST_NAME": "LINDBERG",
-                "CITY": "WEST COVINA",
+                "City": "WEST COVINA",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G69560",
-                "STATE":"CA"
+                "LICENSE NO": "G69560",
+                "State":"CA"
             },
                 {
-                "STREET1": "14850 ROSCOE BLVD",
+                "Street": "14850 ROSCOE BLVD",
                 "PROVIDER_ID": 4440,
-                "FACILITY_NAME": "Regal Medical Group",
-                "ZIP": "91402",
+                "Facility_Name": "Regal Medical Group",
+                "Zipcode": "91402",
                 "LAST_NAME": "LIN",
-                "CITY": "PANORAMA CITY",
+                "City": "PANORAMA CITY",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G70214",
-                "STATE":"CA"
+                "LICENSE NO": "G70214",
+                "State":"CA"
             },
             {
-                "STREET1": "1300 N VERMONT AVE",
+                "Street": "1300 N VERMONT AVE",
                 "PROVIDER_ID": 4440,
-                "FACILITY_NAME": "Regal Medical Group",
-                "ZIP": "90027",
+                "Facility_Name": "Regal Medical Group",
+                "Zipcode": "90027",
                 "LAST_NAME": "LIN",
-                "CITY": "LOS FELIZ",
+                "City": "LOS FELIZ",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G70214",
-                "STATE":"CA"
+                "LICENSE NO": "G70214",
+                "State":"CA"
             },
             {
-                "STREET1": "44105 15TH ST W STE 100",
+                "Street": "44105 15TH ST W STE 100",
                 "PROVIDER_ID": 4440,
-                "FACILITY_NAME": "Regal Medical Group",
-                "ZIP": "93534",
+                "Facility_Name": "Regal Medical Group",
+                "Zipcode": "93534",
                 "LAST_NAME": "LIN",
-                "CITY": "LANCASTER",
+                "City": "LANCASTER",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G70214",
-                "STATE":"CA"
+                "LICENSE NO": "G70214",
+                "State":"CA"
             },
             {
-                "STREET1": "15107 VANOWEN ST",
+                "Street": "15107 VANOWEN ST",
                 "PROVIDER_ID": 4440,
-                "FACILITY_NAME": "Regal Medical Group",
-                "ZIP": "91405",
+                "Facility_Name": "Regal Medical Group",
+                "Zipcode": "91405",
                 "LAST_NAME": "LIN",
-                "CITY": "VAN NUYS",
+                "City": "VAN NUYS",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "G70214",
-                "STATE":"CA"
+                "LICENSE NO": "G70214",
+                "State":"CA"
             },
             {
-                "STREET1": "145 HODENCAMP RD",
+                "Street": "145 HODENCAMP RD",
                 "PROVIDER_ID": 22135,
-                "FACILITY_NAME": "Regal Medical Group",
-                "ZIP": "91360",
+                "Facility_Name": "Regal Medical Group",
+                "Zipcode": "91360",
                 "LAST_NAME": "MCCLINTICK",
-                "CITY": "THOUSAND OAKS",
+                "City": "THOUSAND OAKS",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "A75181"
+                "LICENSE NO": "A75181",
+                "State":"CA"
             },
             {
-                "STREET1": "1148 S ROWAN AVE STE 2",
+                "Street": "1148 S ROWAN AVE STE 2",
                 "PROVIDER_ID": 641,
-                "FACILITY_NAME": "Healthcare Partners Medical Group",
-                "ZIP": "90023",
+                "Facility_Name": "Healthcare Partners Medical Group",
+                "Zipcode": "90023",
                 "LAST_NAME": "LIN",
-                "CITY": "LOS ANGELES",
+                "City": "LOS ANGELES",
                 "FIRST_NAME": "JOHN",
-                "LICENSE_NO": "A39314"
+                "LICENSE NO": "A39314",
+                "State":"CA"
             }
          ]
     }
